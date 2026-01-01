@@ -118,4 +118,3 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 
-Would you like me to help you draft the **"Core Concepts"** section or perhaps write a detailed **Installation Guide** for specific platforms?
