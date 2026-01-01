@@ -84,4 +84,4 @@ curl -X DELETE http://localhost:3000/api/jobs/your-job-id
 * The `agentId` must correspond to a valid agent currently managed by the runtime.
 * For cron-based scheduling, **agentOS** follows standard crontab syntax.
 
-Would you like me to create a sample configuration file (JSON) to help you set up these jobs automatically when **agentOS** starts?
+
