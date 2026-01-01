@@ -1,4 +1,4 @@
-This is a README template for **AgentOS** inspired by the clean, professional, and feature-rich layout of elizaOS. It uses a modern structure with badges, clear sectioning, and a focus on developer experience.
+
 
 ---
 
